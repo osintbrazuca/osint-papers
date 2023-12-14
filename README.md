@@ -3,7 +3,7 @@
   <a href="https://nuclei.projectdiscovery.io"><img src="assets/logo_profile.png" width="300px" alt="OSINT Brazuca"></a>
 </h1>
 
-<h4 align="center">OSINT (Open-source intelligence) / <b>PAPERS</b></h4>
+<h1 align="center">OSINT Brazuca / Papers</h1>
 
 
 <p align="center">
@@ -16,10 +16,10 @@
 </p>
 
 
-# Introdução
+## Introdução
 Organizar documentos sobre OSINT feitos em pt-br.
 
-## Formato:
+### Formato:
 ```
 Em progresso...
 ```
@@ -28,7 +28,7 @@ Em progresso...
 <br>
 <br>
 
-# Autores 👔 <a name="autores"></a>
+## Autores 👔 <a name="autores"></a>
 <p >
 <img src="assets/logo_profile.png" width="20%" /><br>
 <p>
@@ -37,12 +37,12 @@ Em progresso...
 
 ---
 
-## Contribuições ✨ <a name="contribuicoes"></a>
+### Contribuições ✨ <a name="contribuicoes"></a>
 Contribuições de qualquer tipo são bem-vindas!
     
 ---
     
-## Créditos 👏 <a name="creditos"></a>
+### Créditos 👏 <a name="creditos"></a>
 À todas as instituições públicas governamentais e inciativas privadas que disponibilizaram os links para consulta.
 <br>
 À todos que de alguma forma contribuíram para o compartilhamento de links e tricks de consulta nos websites.
