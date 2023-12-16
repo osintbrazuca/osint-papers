@@ -4,37 +4,24 @@ A Conferência Hackers To Hackers (H2HC) é um evento organizado por pessoas que
 
 Por que realizar uma conferência onde novas técnicas de ataque, novas ferramentas e pontos de insegurança do sistema podem ser demonstrados? Porque queremos mostrar esse tipo de informação ao público, especialmente àqueles cujo trabalho é proteger e melhorar a segurança do sistema, e ajudá-los a entender melhor como outros atacam seus computadores. As pessoas que realizam ataques geralmente conhecem diversas técnicas, e é essencial que analistas de segurança, auditores de sistema e outros responsáveis pela segurança também saibam se defender.
 
-Como pode ser observado ao acessar os melhores fóruns, sites e listas de e-mail sobre o assunto, encontrar falhas de segurança não é uma tarefa muito difícil. Para cada falha descoberta por um pesquisador e enviada ao fabricante, provavelmente existem outras já conhecidas por pesquisadores que não notificam o fabricante. E acreditamos que a melhor forma de se proteger contra essas falhas desconhecidas é compreender profundamente como os problemas ocorrem e criar mecanismos de segurança para prevenir uma classe de falhas, não apenas aplicar correções publicadas pelo fabricante e esperar que ninguém ataque seu sistema com um 0day.
+## Tabela de talks
 
-### PÚBLICO-ALVO
-
-Qualquer pessoa responsável pela segurança da informação e privacidade deve participar, incluindo: CEO, CIO, CTO, diretores de tecnologia, arquitetos de sistema, desenvolvedores de sistema, administradores de rede, oficiais de segurança, especialistas em segurança de rede, consultores de segurança, gerentes de risco, administradores de sistema e estudantes que têm aprendizado contínuo sobre segurança.
-
-### TEMAS E ASSUNTOS
-
-Os tópicos incluem, mas não se limitam a:
-
-- Teste de Intrusão
-- Segurança de aplicativos web
-- Segurança de telecomunicações e phone phreaking
-- Fuzzing e testes de segurança de aplicativos
-- Técnicas para desenvolvimento de software e sistemas seguros
-- Hacking de hardware, sistemas embarcados e outros dispositivos eletrônicos
-- Exploração de dispositivos móveis, tecnologia Symbian, P2K e Bluetooth
-- Análise de vírus, worms e malwares
-- Engenharia reversa
-- Rootkits
-- Segurança Wi-Fi e VoIP
-- Smartcards, RFID e informações de segurança similares
-- Abordagem técnica para sistemas operacionais alternativos
-- Ataques de negação de serviço e/ou contramedidas
-- Aspectos de segurança em SCADA, ambientes industriais e redes "obscure"
-- Criptografia
-- Lockpicking, trashing, segurança física e exploração urbana
-- Internet, privacidade e Big Brother
-- Guerra de informações e espionagem industrial
-
-
+| Título | Descrição |Autor   | Ano   | Vídeo  | Paper | 
+|  ----  |   ----    |  ----  | ----  |  ----  | ----  |
+|   Crushing crumbs of information to eat a whole cake     |     null      |   Felipe Pr0teus      |   2023    |   null     |   null    | 
+|  Utilizando OSINT na Busca de Pessoas Desaparecidas  |   null    |  Darko Hunter  | 2023  |  null  | null  |
+|  Triangulação Geográfica usando Telegram   |   null    |  Ismael Deus Marques (podepoleguy)  | 2023  |  null  | null  |
+|  Do OSINT ao HUMINT: Estratégias para Desvendar e Perfilar a Persona do Alvo  |   null    |  Deivison Lourenço e Raul Cândido  | 2023  |  null  | null  |
+|  Fonte da fonte: como avaliar dados Osint para uma Investigação Digital  |   null    |  Emerson Wendt  | 2023  |  null  | null  |
+|  Engenharia Social com ngrok e seeker  |  null    |  Roney Medice   | 2023  |  null  | null  |
+|  Who possibly behind the Phishing that steals Apple Credentials  |   null    |  corvo  | 2023  |  null  | null  |
+|  Recycled or not? Using osint to verify information  |   null    |  Laís Clesar  | 2023  |  null  | null  |
+|  Nym, a camada de privacidade para todo o tráfego na internet  |   null    |  Gabriel Cardoso  | 2023  |  null  | null  |
+|  null  |   null    |  null  | null  |  null  | null  |
+|  null  |   null    |  null  | null  |  null  | null  |
+|  null  |   null    |  null  | null  |  null  | null  |
+|  null  |   null    |  null  | null  |  null  | null  |
+|  null  |   null    |  null  | null  |  null  | null  |
 
 ## Contato
 - https://www.h2hc.com.br
