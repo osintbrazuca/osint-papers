@@ -1,6 +1,6 @@
 # Roadsec
 
-## Tabela de eventos
+## Tabela de talks
 
 | Titulo | Descrição |Autor | Ano    | Video   | Paper | 
 |  ----  |  ----     |  ----  |----  |  ----  | ---- |
