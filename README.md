@@ -22,7 +22,7 @@ Repositório com intuito de organizar documentos dentro do contexto de Open Sour
 ### Categorias:
 - [**Acadêmicos:**](./Academicos/) Documentação feita dentro de um contexto mais formal (universidades, faculdades, centro de pesquisas).
 - [**Eventos:**](./Eventos/) Apresentações feitas em conferências, comunidades, encontros ou lives.
-- [**Governo:**](./Gov/) Documentação produzida por membro ou instituição ligadas ao governo Brasileiro.
+- [**Governo:**](./Gov/) Documentação produzida por membros ou instituições ligadas ao governo Brasileiro.
 
 
 ### Tree
