@@ -17,13 +17,48 @@
 
 
 ## Introdução
-Organizar documentos sobre OSINT feitos em pt-br.
+Repositório com intuito de organizar documentos dentro do contexto de Open Source Intelligence (OSINT) feitos por Brasileiros / pt-br.
 
-### Formato:
-```
-Em progresso...
-```
+### Categorias:
+- **Acadêmicos:** Documentação feita dentro de um contexto mais formal (universidades, faculdades, centro de pesquisas).
+- **Eventos:** Apresentações feitas em conferências, comunidades, encontros ou lives.
+- **Governo:** Documentação produzida por membro ou instituição ligadas ao governo Brasileiro.
 
+### Tree
+```
+.
+├── Acadêmico
+│   └── README.md
+├── assets
+│   └── logo_profile.png
+├── Eventos
+│   ├── bhack
+│   │   └── README.md
+│   ├── bsides-jp
+│   │   └── README.md
+│   ├── bsides-pb
+│   │   └── README.md
+│   ├── bsides-sp
+│   │   └── README.md
+│   ├── cryptorave
+│   │   └── README.md
+│   ├── h2hc
+│   │   └── README.md
+│   ├── mind the sec
+│   │   └── README.md
+│   ├── osint and beers
+│   │   └── README.md
+│   ├── README.md
+│   ├── roadsec
+│   │   └── README.md
+│   └── you sh0t the sheriff
+│       └── README.md
+├── Gov
+│   └── README.md
+└── README.md
+
+15 directories, 15 files
+```
 
 <br>
 <br>
